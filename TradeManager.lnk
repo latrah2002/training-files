@@ -1,0 +1,12 @@
+<!doctype htmt>
+<html>
+<head> 
+<title> Test PHP</title>
+<body>
+<h1> This is time notice</h1>
+
+<p> This will show the date with PHP: <?php echo date ('l');
+?>. </p>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+Think about this:
+
+Honestly, that's how most people learn. Now, I am sorry to say that there is no make website button regardless
+ of which tool you use. So, the obvious question becomes, where do I start? Well, more than anything else, that's 
+going to be driven by two things, which areas of web design that you plan to specialize in? And what your current
+ strengths are? What interests you more? Visual design, user experience, interactive design or mobile development? 
+Are you currently a graphic designer, technical writer, instructional designer, educator? Take some time to think 
+through those choices and be honest about your current strengths.
+
+STANDARDIZATION OF WEBSITE
+1.ECMA-INTERNATION.ORG
+2. WWW.W3.ORG
+
+PLANNING WEBSITES: You must considered
+1. Content strategy
+2. Site architecture
+3. User experience
+
+SKETCHING
+WORKFLOW SECGMENTS
+1. Planning: Scope of the project, Content strategy,functionalityintiate plan, sketching,
+style tiles (bradfrostweb.com/blog/post/atomic-web-design
+2. Design: Prototype design, Generating site assets,Know the code
+3. Development
+4. Publishing
+
+
+
+
+Blog sites: 
+squarespace.com
+Golive etc
+
+http://www.axandra.com/free-online-seo-tool/shared-hosting-check.php
+
+code syntax:
+validator.w3.org
+developer.google.com
+
+TESTING DYNAMIC SITES
+Itneeds a local web serverlike:
+MAMP or wamo

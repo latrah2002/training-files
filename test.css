@@ -1,0 +1,60 @@
+/* CSS for Test.html*/
+
+#header {
+    background-color:black;
+    color:white;
+    text-align:center;
+	font-family: Verdana, sanserif;
+    padding:5px;
+}
+#nav {
+    line-height:30px;
+    background-color:#eeeeee;
+    height:500px;
+    width:200px;
+    float:right;
+    padding:5px;
+}
+a{
+	border-radius: 5px;
+	border: 2px solid #6495ED;
+	background-color: #BCD2EE;
+	height: 18px;
+	text-align: center;
+	font-family: Garamond, serif;
+
+	text-decoration: none;
+	
+	/*background-color: #cc0000;
+	border: 1px solid green;
+	text-align: auto;
+	text-decoration: none;*/
+	
+	}
+p {
+	font-size: 20px;
+	font-family: Tahoma;
+	color: blue;
+	}
+  
+
+#section {
+    width:350px;
+    float:left;
+    padding:10px;
+
+}
+	
+#footer {
+/*background-color: Yellow;
+text-align: Centre;
+clear: both;*/
+background-color:Yellow;
+    color:black;
+    clear:both;
+    text-align:center;
+      padding:5px;
+}
+
+
+

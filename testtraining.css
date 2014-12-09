@@ -1,0 +1,54 @@
+
+
+html { background: yellow;
+
+	}
+
+body {
+		width: 80%;
+		margin: 0 auto;
+		background: white;
+		}
+header {
+		background: blue;
+		height: 50px;
+		margin-bottom: 1em;
+		
+		}
+		
+		ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li { float: left;
+
+}
+/*
+nav {
+		height: 25px;
+		margin-bottom: 1em;
+		background: green;
+		}
+
+aside{
+		/*float: left;*/
+		width: 30%;
+		background: black;
+		
+		}
+		/*Content body*/
+/*
+article{
+		float: right;
+		width: 60%;
+		
+		} */
+footer {
+		clear: both;
+		margin-top: 1em;
+		background: black;
+		}
+		

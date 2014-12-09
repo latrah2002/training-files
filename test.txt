@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Latrah</title>
+		<link type="text/css" rel="stylesheet" href="test.css"/>
+	</head>
+	<body>
+		<img src="https://cid-f5a769cada39acb2.users.storage.live.com/users/0xf5a769cada39acb2/myprofile/expressionprofile/profilephoto:Win8Static,UserTileMedium,UserTileStatic/MeControlXXLUserTile?ck=1&ex=24&fofoff=1">
+	  <p>PROFILE </p>
+	  <ul>
+	  <li> age 41 </li>
+	  <li> Male </li>
+	  <li> Home town: Olayaju</li>
+	  <li> Interest</li>
+	  </ul>
+	</body>
+</html>
